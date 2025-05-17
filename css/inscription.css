@@ -326,11 +326,11 @@ footer>div>a:hover {
         display: block;
         margin-top: 10px;
         font-size: 13px;
-        margin-bottom: 30px;
+        margin-bottom: 50px;
 
     }
 
-    #welcome{
+    #welcome {
         color: #800080;
         text-decoration: none;
     }
