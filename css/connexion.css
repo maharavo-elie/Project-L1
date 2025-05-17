@@ -167,7 +167,7 @@ a:hover {
     #div1>b {
         font-size: 45px;
         color: #ffb400;
-        margin-left: -40px;
+        margin-left: -35px;
     }
 
     #div1>span {
@@ -175,11 +175,12 @@ a:hover {
         gap: 30px;
         justify-content: center;
         margin-top: 20px;
+        margin-right: 40px;
     }
 
     p {
         font-size: 11px;
-        margin-top: 30px;
+        margin-top: 20px;
         margin-right: 23px;
     }
 
